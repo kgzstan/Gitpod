@@ -159,3 +159,60 @@ a{
     color: #12100C;
     text-align: center;
 }
+#section4{
+    margin: 200px 0;
+}
+.Remote{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+}
+.Remote__img{
+    width: 100%;
+}
+.Remote h1{
+    text-align: center;
+    font-size: 54px;
+    font-weight: 700;
+    color: #12100C;
+
+}
+.Remote p{
+    font-size: 24px;
+    font-weight: 400;
+    color: #12100CB2;
+    text-align: center;
+}
+.Remote__btn{
+    display: flex;
+    gap: 30px;
+}
+.Remote__btn button:nth-child(1){
+    background: #0000000e;
+    text-align: center;
+    width: 207px;
+    height: 47px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.btnch{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+}
+.Remote__btn button:nth-child(2){
+    background: #0000000e;
+    text-align: center;
+    width:208px;
+    height: 47px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.btnfox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+}
