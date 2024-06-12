@@ -97,7 +97,7 @@ a{
     display: flex;
     flex-direction: column;
     text-align: center;
-    padding: 100px 0;
+    padding: 200px 0;
 }
 .Text h1{
     font-size: 54px;
@@ -108,4 +108,54 @@ a{
     font-size: 54px;
     color: #999795;
     font-weight: 400;
+}
+#section3{
+ 
+}
+.Web{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+       padding: 200px 0;
+}
+.Web h1{
+    font-size: 32px;
+    font-weight: 700;
+    color: #12100C;
+    padding-bottom: 20px;
+}
+.Web p{
+    width: 591px;
+    font-size: 24px;
+    font-weight: 400;
+    color: #12100CB2;
+}
+.Web__btn{
+    display: flex;
+    gap: 30px;
+    padding-top: 100px;
+}
+.btn1{
+    cursor: pointer;
+    background: #FFAE33;
+    border-radius: 10.5px;
+    width: 25%;
+    height: 35px;
+    border: none;
+    font-size: 14px;
+    font-weight: 700;
+    color: #12100C;
+    text-align: center;
+}
+.btn2{
+    cursor: pointer;
+    background: #FFB0AE;
+    border-radius: 10.5px;
+    width: 25%;
+    height: 35px;
+    border: none;
+    font-size: 14px;
+    font-weight: 700;
+    color: #12100C;
+    text-align: center;
 }
