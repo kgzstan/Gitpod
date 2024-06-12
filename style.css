@@ -90,3 +90,22 @@ a{
     align-items: center;
     gap: 30px;
 }
+#secton2{
+
+}
+.Text{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 100px 0;
+}
+.Text h1{
+    font-size: 54px;
+    color: #12100C;
+    font-weight: 700;
+}
+.Text p{
+    font-size: 54px;
+    color: #999795;
+    font-weight: 400;
+}
