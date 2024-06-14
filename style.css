@@ -395,7 +395,7 @@ a{
 }
 .Get__web{
     width: 46%;
-    background: yellow;
+    background: whitesmoke;
     padding: 50px 30px;
     border-radius: 10px;
 }
@@ -447,4 +447,72 @@ a{
     color: #FFFFFF;
     font-size: 16px;
     font-weight: 400;
+}
+#section7{
+    background: whitesmoke;
+    margin: 100px  0 0 0;
+    padding: 50px 0 0 0;
+}
+.Last{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 140px;
+}
+.Last__text1{
+    display: flex;
+    align-items: flex-start;
+    
+    flex-direction: column;
+    gap: 10px;
+}
+.Last__text1 h1{
+    font-size: 13px;
+    font-weight: 700;
+    color: #12100C;
+}
+.Last__text1 h2{
+    font-size: 13px;
+    font-weight: 400;
+    color: #12100CB2;
+}
+.hr{
+    margin: 50px 0 50px 208px;
+    width: 63%;
+    height: 1px;
+    background: #ECE7E5;
+}
+.foot{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 50px;
+    padding-bottom: 50px;
+}
+.foot__logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.footer{
+    background: #ECE7E5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+.footer h1{
+    font-size: 16px;
+    font-weight: 400;
+    color: #12100CB2;
+}
+.footer button{
+    width: 10%;
+    height: 32px;
+    border: none;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 400;
+    color: #12100CB2;
+    background: #F9F9F9;
 }
