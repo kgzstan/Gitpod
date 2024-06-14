@@ -216,3 +216,79 @@ a{
     justify-content: center;
     gap: 18px;
 }
+#section5{
+    padding: 50px 0;
+}
+.Develop{
+
+}
+.Develop h1{
+    font-size: 54px;
+    font-weight: 700;
+    color: #12100C;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.swiper {
+    width: 100%;
+    height: 100%;
+    margin: 50px 0;
+   
+  }
+
+  .swiper-slide {
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 248px;
+    background: whitesmoke;
+    border-radius: 10px;
+    
+  }
+  .swiper-slide h2{
+    padding: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #12100C;
+  }
+  .swiper-slide h4{
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #12100C;
+  }
+  .swiper-slide img {
+    display: block;
+    width: 20%;
+    height: 10%;
+    object-fit: cover;
+  }
+  .slide__box{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  .slide__box p{
+    width: 172px;
+    font-size: 24px;
+    display: flex;
+   align-items: flex-start;
+}
+.Media{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+.Media2{
+    display: flex;
+    align-items: center;
+   
+    justify-content: center;
+ gap: 30px;
+    padding-top: 50px;
+}
