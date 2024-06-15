@@ -7,7 +7,7 @@
     margin: 0 auto;
     padding:0;
    width: 90%;
-    border: 1px solid red;
+
 }
 a{
     text-decoration: none;
@@ -495,6 +495,7 @@ a{
     gap: 10px;
 }
 .footer{
+    border-radius: 10px;
     background: #ECE7E5;
     display: flex;
     align-items: center;
